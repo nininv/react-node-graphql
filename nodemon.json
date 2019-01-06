@@ -1,7 +1,7 @@
 {
-    "env": {
-        "MONGO_USER": "shwaqar",
-        "MONGO_PASSWORD": "wgr614v90",
-        "MONGO_DB": "react-node-graphql"
-    }
+  "env": {
+    "MONGO_USER": "shwaqar",
+    "MONGO_PASSWORD": "wgr614v90",
+    "MONGO_DB": "react-node-graphql"
+  }
 }
