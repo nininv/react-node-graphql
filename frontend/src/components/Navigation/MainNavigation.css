@@ -30,13 +30,19 @@
   margin: 0 1rem;
 }
 
-.main-navigation_items a {
+.main-navigation_items a,
+.main-navigation_items button {
   text-decoration: none;
   color: #fff;
+  border: none;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
 }
 
 .main-navigation_items a:hover,
 .main-navigation_items a:active,
-.main-navigation_items a.active {
+.main-navigation_items a.active,
+.main-navigation_items button:hover {
   color: aqua;
 }
